@@ -1,11 +1,11 @@
 {
-  "list-context.bullet-group":{
+  "list-context.bullet-group": {
     "component": "BulletGroup",
     "composition": "children",
     "allowed": "*",
     "content": {
       "properties": {
-        "bullet" : {
+        "bullets": {
           "ref": "app:itgloberspartnercl.bullets-diagramation#/definitions/BulletGroup"
         }
       }

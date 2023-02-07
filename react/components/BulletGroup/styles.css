@@ -1,0 +1,18 @@
+.bullet__item,
+.bullet__item--image {
+  width: 100px;
+}
+
+.bullet__item {
+  margin-right: 15px;
+}
+
+.bullet__item--link {
+  text-decoration: none;
+}
+
+.bullet__item--title {
+  color: black;
+  font-size: 16px;
+  text-decoration: solid;
+}
