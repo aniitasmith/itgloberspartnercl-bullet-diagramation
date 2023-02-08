@@ -1,3 +1,4 @@
+//@ts-ignore
 import React from 'react'
 import { Link } from 'vtex.render-runtime'
 import { LinkProps } from './BulletTypes'
