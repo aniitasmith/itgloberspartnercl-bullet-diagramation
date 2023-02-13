@@ -8,9 +8,9 @@
           "image": {
             "$ref": "app:vtex.native-types#/definitions/url",
             "default": "",
-            "title": "Image",
+            "title": "Imagen",
             "widget": {
-              "ui:widgets": "image-uploader"
+              "ui:widget": "image-uploader"
             }
           },
           "titleBullet": {
