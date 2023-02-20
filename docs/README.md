@@ -59,7 +59,7 @@ Context of elements that will render the lower levels of navigation within a lis
 
  Block name     | Description                                      |
 | -------------- | ----------------------------------------------- |
-| `product-list.bullet-group` | ![https://img.shields.io/badge/-Mandatory-red](https://img.shields.io/badge/-Mandatory-red)  Top level block that must be declared in the store-theme block to render a default detailed list with all bullets   |
+| `list-context.bullet-group` | ![https://img.shields.io/badge/-Mandatory-red](https://img.shields.io/badge/-Mandatory-red)  Top level block that must be declared in the store-theme block to render a default detailed list with all bullets   |
 
 ### list-context.bullet-group props
 
