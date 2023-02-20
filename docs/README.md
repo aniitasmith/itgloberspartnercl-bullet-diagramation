@@ -51,11 +51,19 @@ Context of elements that will render the lower levels of navigation within a lis
             "url": "/celulares"
           }
         }
+      ]
+    }
+  }
+ }
    ```
+
+ Block name     | Description                                      |
+| -------------- | ----------------------------------------------- |
+| `product-list.bullet-group` | ![https://img.shields.io/badge/-Mandatory-red](https://img.shields.io/badge/-Mandatory-red)  Top level block that must be declared in the store-theme block to render a default detailed list with all bullets   |
 
 ### list-context.bullet-group props
 
-| Prop name    | Type            | Description    | Default value                                                                                                                               |
+| Prop name    | Type            | Description    | Default Value                                                     |
 | ------------ | --------------- | --------------------------------------------------------------------- | ---------- | 
 | `bullet`        | `Array`       | Define the bullet array to render in the list-context       | `undefined`              |
 
@@ -70,6 +78,8 @@ Context of elements that will render the lower levels of navigation within a lis
 
 
 ## Customization
+
+In order to apply CSS customizations in this and other blocks, follow the instructions given in the recipe on [Using CSS Handles for store customization](https://vtex.io/docs/recipes/style/using-css-handles-for-store-customization).
 
 | CSS Handles |
 | ----------- | 
